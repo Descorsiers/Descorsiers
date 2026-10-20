@@ -5,6 +5,8 @@
 -I'm 23 years old Computer Science Enthusiast passionate about Coding and Web Development.
 
 ## Technology & Tools :
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <!--
 **Descorsiers/Descorsiers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
