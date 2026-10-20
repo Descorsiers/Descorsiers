@@ -18,7 +18,7 @@
   <a href="mailto:desco.nico456@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/nicolas-descorsiers-3b879029b/)">
+  <a href="(https://www.linkedin.com/in/nicolas-descorsiers-3b879029b/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
