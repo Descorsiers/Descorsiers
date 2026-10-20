@@ -6,18 +6,19 @@
 
 ## Technology & Tools :
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<!--
-**Descorsiers/Descorsiers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,react,linux,php,github" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Contact Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:desco.nico456@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/nicolas-descorsiers-3b879029b/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
