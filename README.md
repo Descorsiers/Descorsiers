@@ -6,7 +6,7 @@
 
 ## Technology & Tools :
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,react,linux,php,github" />
   </a>
@@ -14,9 +14,11 @@
 
 ## Contact Me :
 
-<a href="mailto:desco.nico456@gmail.com">
+<p align="start">
+  <a href="mailto:desco.nico456@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
- <a href="[https://skillicons.dev](https://www.linkedin.com/in/nicolas-descorsiers-3b879029b/)">
+  </a>
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/nicolas-descorsiers-3b879029b/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  </a>
+</p>
