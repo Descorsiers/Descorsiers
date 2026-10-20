@@ -1,5 +1,10 @@
 # Hi, I'm Nicolas
 
+## About Me
+
+-I'm 23 years old Computer Science Enthusiast passionate about Coding and Web Development.
+
+## Technology & Tools :
 <!--
 **Descorsiers/Descorsiers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
